@@ -17,7 +17,7 @@ A PyQt5-based application that suggests recipes based on a given ingredient usin
 
 3. **Run the application:**
     ```bash
-    python recipe_bot.py
+    python recipe_bot_v1.py
     ```
 
 4. **Enter an ingredient in the provided input field and click "Get Recipe" to receive a recipe suggestion.**
